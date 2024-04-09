@@ -1,0 +1,7 @@
+C:\Users\velko\OneDrive\Desktop\student\уроки\C#\ls5\PRAC\PRAC\bin\Debug\PRAC.exe.config
+C:\Users\velko\OneDrive\Desktop\student\уроки\C#\ls5\PRAC\PRAC\bin\Debug\PRAC.exe
+C:\Users\velko\OneDrive\Desktop\student\уроки\C#\ls5\PRAC\PRAC\bin\Debug\PRAC.pdb
+C:\Users\velko\OneDrive\Desktop\student\уроки\C#\ls5\PRAC\PRAC\obj\Debug\PRAC.csproj.AssemblyReference.cache
+C:\Users\velko\OneDrive\Desktop\student\уроки\C#\ls5\PRAC\PRAC\obj\Debug\PRAC.csproj.CoreCompileInputs.cache
+C:\Users\velko\OneDrive\Desktop\student\уроки\C#\ls5\PRAC\PRAC\obj\Debug\PRAC.exe
+C:\Users\velko\OneDrive\Desktop\student\уроки\C#\ls5\PRAC\PRAC\obj\Debug\PRAC.pdb
